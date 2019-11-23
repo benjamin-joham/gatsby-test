@@ -14,6 +14,8 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 [![Build Status](https://travis-ci.org/Benni2808/gatsby-test.svg?branch=master)](https://travis-ci.org/Benni2808/gatsby-test)
 
+Here could be a coveralls badge for tests
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**

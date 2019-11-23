@@ -3,10 +3,6 @@ language: node_js
 node_js:
   - "lts/*"
 
-branches:
-  only:
-  - master
-
 jobs:
   include:
     - before_install:
@@ -19,7 +15,6 @@ jobs:
       - "cd project2"
       script:
       - "gatsby build"
-
 
 # OPTIONAL Install apt addons
 # OPTIONAL Install cache components
