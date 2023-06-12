@@ -8,7 +8,7 @@ jobs:
     - before_install:
       - "cd project1"
     # install:
-    #   - "npm install" as its the default
+    #   - "npm install" as its the default should no longer be here
       script:
       - "gatsby build"
     - before_install:
